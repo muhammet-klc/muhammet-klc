@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGRTLQ9wYbJxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705177978404?e=1739404800&v=beta&t=QPNryjn6TmnR9MX_p6GK7QZPP512nTCRAaUdnfxcb8g" />
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-klc)
